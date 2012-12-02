@@ -1,0 +1,25 @@
+Commodity,Variety,Tº low,Tº High,Lat1,Lat2,Elevation Low,Elevation High,Soil Type,Soil min,Soil High,Sunlight,Best Season,Water min,Water max,nutritional value (calories)
+Mango,Francis,23.9,26.7,25,-25,0,915,"Good drainage critical. Rich, deep loam certainly contributes to maximum growth, but grows well in sand, gravel, and even oolitic limestone.Low tolerance for salts, boron and lawn herbicides . Like a very low total water salt contnat of 0.04-0.05%. Soils should have a depth of at least 1.2 m or more. Water table should be at 1.8-2.4m",5.5,7.5,bright sunny days and moderate humidity during flowering,,890,1015,
+Pineapple,Hawaiian,18,32,30,-30,0,800,"Loamy, well drained (dark brown and  reddish brown balsaltic and sandy loams preferred), slightly acidic",4.5,6.5,"full sun, few clouds",,1000,1100,
+Yucca/Cassava,Data needed,25,29,30,-30,0,2000,"Prefers soils with clay content < 18%.  Will not tolerate saline or waterlogged conditions. Under commercial conditions cassava extracts from the soil the following nutrients: 253 Kg N/Ha; 28 kg P/Ha; 250 kg K/Ha; 42 kg Ca/Ha; 29 kg Mg/Ha.  Well adapted to acid soils, but does not do well with low zinc levels",5.5,7.5,"Full sun, high humidity, see notes on day length",,1900,2000,
+Hibiscus (roselle),Data needed,25,35,30,-30,0,900,"Soil preparation should be deep, about 20 cm, and thorough. Roselle requires a permeable soil, a friable sandy loam with humus being preferable",4.5,8,"A sunny western or southern exposure that has  bright, direct light is best, hot dry, high humidity plant",,1500,2000,
+Papaya,Data needed,23,27,32,-23,0,1000,"While doing best in light, porous soils rich in organic matterPapayas perform best on deep that are well drained. Heavy clay soils or acidic soils are not ideal. A topsoil depth of 1 m is preferable for optimum growth and production, and a minimum depth of 0.5 m is essential to avoid waterlogging",5.5,6.7,Full sun to light shade,,1500,2000,
+Tamarind,Data needed,20,29,23,-23,0,1500,"The tree tolerates a great diversity of soil types, from deep alluvial soil to rocky land and porous, oolitic limestone. It withstands salt spray and can be planted fairly close to the seashore.The tree  deep alluvial, well-drained soils of loamy texture.",4.5,8.7,"Likes direct sun, humidity",,500,700,
+Maize,Data needed,16.7,23.3,50,-40,0,4000,well-drained loamy soils,5,8,12.5 hours/day being suggested as the ,,500,700,
+Rice,Data needed,21,37,23,-23,0,3000,good water retention capacity with good amount of clay and organic matter are ideal for rice cultivation,5.5,6.5,Full sunlight,,900,1000,
+Sorghum,Data needed,26,30,40,-40,0,1500,"Soils with clay loam or loam texture, having good water retention capacity",6,8.5,Full sunlight,,400,750,
+barley,Data needed,5,27,42,-70,0,3000,"well
+drained, fertile loams and lighter clay soils. It tolerates
+loamy to heavy soils but will not do well in waterlogged
+Soils.",6,7.5,Full sunlight,,90,430,
+Wheat,Data needed,20,25,30,-25,0,4000,Loam soil also soil with proper system of drainage,5.8,6.5,Full sunlight,,600,800,
+Sweet potato,Data needed,15,33,20,-40,1000,1600,"well-drained, light- and medium-textured soils ",4.5,7,Full sunlight,,750,1100,
+Taro,Data needed,21,27,33,-33,0,2400,"fertile, friable soil that has a high water capacit and is rich in organic matte",6,6.8,,,1500,1700,
+millet,Data needed,12,28,7,-9,800,1800,It grows best in a well-drained fertile soil,6,7,Full sunlight,,250,750,
+yam,Data needed,17,35,20,-20,0,1400,"Soil moisture at all depths. deep, fertile, well drained, loose, loams and sandy-loam soils with low levels of salinity",5.5,6.5,Full sunlight,,1200,4000,116 / 6%
+sugarcane,Data needed,20,28,36.7,-31,0,1700,"The soil should be deep, humus-rich, well aerated and drained",5,7,Full sunlight,,1500,1700,
+soybeans,Data needed,21,32,55,-55,0,2000,Soybeans are sensitive to low pH,6,6.5,short-day plant,,400,500,
+guava,Data needed,3,32,35,-35,0,1500,Rich soils high in organic matter,5,7,Full sunlight,,1000,2000,
+cocoa,Data needed,25,25,20,-20,400,700,"The soil on cocoa plantations should be deep, well-drained, and have sufficient water-retaining capacity",4,7.5,shade,,1000,1100,
+coconut,Data needed,26,27,23,-60,0,700,"Soil with proper drainage, good water-holding capacity.",,,Full sunlight,,1100,1250,660 / 33%
+Banana,Data needed,27,38,30,-30,0,1800,Alluvial and volcanic soils. Rich organic soil,6,7.5,Full sunlight,,900,1000,89.0 / 4%
